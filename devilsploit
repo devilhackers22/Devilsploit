@@ -8,6 +8,8 @@ termux-open-url https://youtube.com/channel/UCtVKt69RRu9TOJFfk5neJEA
 
 clear
 
+cd $HOME
+
 #!/data/data/com.termux/files/usr/bin/bash
 
 # Remove  Old Folder if exist 
@@ -76,3 +78,4 @@ cd ${PREFIX}/bin && curl -LO https://hax4us.github.io/files/msfconsole && chmod 
 ln -sf $(which msfconsole) $PREFIX/bin/msfvenom
 
 echo "you can directly use msfvenom or msfconsole rather than ./msfvenom or ./msfconsole."
+rm -rf Devilsploit
