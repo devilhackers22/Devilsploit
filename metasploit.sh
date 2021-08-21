@@ -1,10 +1,9 @@
+termux-open-url https://chat.whatsapp.com/EUbT6U9RPau0rF21i50jPs
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 echo "
-              M|E|T|A|S|P|L|O|I|T
+              D|E|V|I|L||H|A|C|K|E|R|S
     ____________________________________________
-   ---------------------------------     ------------------------------------------
-   |B|y| |T|E|C|H|N|I|C|A|L|----|M|U|N|D|E|E|R
    --------------------------------     ------------------------------------------
 "
 
